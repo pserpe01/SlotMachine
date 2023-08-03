@@ -1,7 +1,7 @@
-1. Depositar dinheiro -> Feito
-2. Determinar o número de linhas que pretende apostar -> Feito
-3. Recolher a aposta -> Feito
-4. Rodas a slot -> A desenvolver
-5. Verificar se o utilizador ganhou
+1. Depositar dinheiro 
+2. Determinar o número de linhas que pretende apostar 
+3. Recolher a aposta 
+4. Rodar a slot 
+5. Verificar se o utilizador ganhou 
 6. Se ganhar, da-se os ganhos ao utilizador, caso contrário, recolhe-se a aposta
 7. Jogar outra vez
